@@ -2,9 +2,9 @@
 <br>
 В данном репозитории представлены такие алгоритмы машинного обученя, как:
 <ul>
-<li>**KNN** - k Nearest Neighbours - метод k ближайшх соседей;</li>
-<li>**SVM** - Support Vector Machine - метод опорных векторов;</li>
-<li>**Naive Bayes** - метод наивного Байеса;</li>
-<li>**Decision Tree** - метод решающих деревьев;</li>
-<li>**Clastering** - методы кластеризации.</li>
+<li><b>KNN</b> - k Nearest Neighbours - метод k ближайшх соседей;</li>
+<li><b>SVM</b> - Support Vector Machine - метод опорных векторов;</li>
+<li><b>Naive Bayes</b> - метод наивного Байеса;</li>
+<li><b>Decision Tree</b> - метод решающих деревьев;</li>
+<li><b>Clastering</b> - методы кластеризации.</li>
 </ul>
